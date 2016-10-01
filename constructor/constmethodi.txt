@@ -1,0 +1,31 @@
+1)
+constuctor deefine state of the object
+ method doing expose the behaviour of the object.
+
+2)
+
+constuctor must not have return type
+
+method must have return type
+
+3)
+
+constuctor invokes implicitly
+
+method invokes explicitly
+
+4)
+
+in java compiler container default constructor if ur not defineng also.
+
+in method there is no defined constructor.
+
+5)
+
+constructor name must be same as the class name..
+
+bust method name be anything the is no need to be a class name.
+
+6)
+
+

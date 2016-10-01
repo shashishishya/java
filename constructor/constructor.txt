@@ -1,0 +1,14 @@
+* file constructor meansspeailize of the object creation by using class name
+* 
+rule
+
+1) constuctor name and class name are both same;
+2) constuctor should have specified return type compulsory;
+
+
+there contsructor
+
+1) one is default constuctor and 
+2) this is parameterized constructor;
+
+

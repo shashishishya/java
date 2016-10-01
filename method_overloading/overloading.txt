@@ -1,0 +1,9 @@
+* there are two type
+
+1)  overload by using arguments
+2) overload by using the return type method
+
+
+* only thing is the if you specify the return type in the method we will get compile type error.
+
+* we can overload the any number of the main() method there no restriction.
