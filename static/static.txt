@@ -1,0 +1,6 @@
+* main import usage of the static keywork is the for memory management perpose insted of other for blocks,variables and also others
+
+1) static variable
+2) static method
+3) static nested class
+4) static can be method
