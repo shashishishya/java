@@ -1,0 +1,7 @@
+1. this keywork used to reference to current object
+2. this can be user current custoctor class.
+3. this argument in the method call.
+4. this argument can be passed to custoctor class.
+5. this class can be user invoke the current object.
+
+ 
