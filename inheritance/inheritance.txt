@@ -1,0 +1,18 @@
+*) this will aquire the properties of the all the parent class.
+*) based on the existing class we can creare a new class.
+*) when ever u want a class u can call this class it will work.
+*) inheritance is the IS-A Relationship.
+*) uses
+	1) method reusability.
+	2) for code reusability.
+
+ syntax:
+
+class subclass extends parent class{
+
+	// you code like reusability adn all
+}
+
+extends keyword uses the inherit parent class colection.
+
+

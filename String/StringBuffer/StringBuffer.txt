@@ -1,0 +1,8 @@
+1) string buffer as i like string
+
+
+a) StringBuffer()//create empty string buffer
+b) StringBuffer(String)//string buffer fotr the specified string
+c) StringBuffer(capacity)//string buffer for the specified buffer length().
+
+
